@@ -5,4 +5,3 @@ function firstToLast(str,c){
     } else {
         return last - first;
     }
-}
